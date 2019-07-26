@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Aspak is changing main branch" );
+        System.out.println( "Aspak is resetting  main branch" );
     }
 }
